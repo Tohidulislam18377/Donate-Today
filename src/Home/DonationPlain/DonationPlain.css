@@ -1,0 +1,87 @@
+.main-donation-container {
+    text-align: center;
+    margin-top: -25px;
+}
+
+.main-title {
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.main-description {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: -65px;
+}
+
+.donate-details {
+    display: flex;
+    gap: 50px;
+    margin: 0px 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.donate-details1 {
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+    height: 250px;
+
+}
+
+.img1 {
+    padding: 0px 10px;
+    padding-top: 20px;
+    width: 58.132px;
+    height: 49.772px;
+}
+
+.donate-plain1 {
+    margin-top: -5px;
+    padding-left: 10px;
+}
+
+.donate-plain-description {
+    margin-top: -5px;
+    padding: 0px 10px;
+}
+
+.donate-details2{
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+    height: 250px;
+}
+.img2{
+    padding: 0px 10px;
+    padding-top: 20px;
+    width: 58.132px;
+    height: 49.772px;
+}
+.donate-plain2 {
+    margin-top: -5px;
+    padding-left: 10px;
+}
+.donate-plain-description2 {
+    margin-top: -5px;
+    padding: 0px 10px;
+}
+.donate-details3{
+    border-radius: 5px;
+    background: #FFF4D6;
+    height: 250px;
+}
+.img3{
+    padding: 0px 10px;
+    padding-top: 20px;
+    width: 58.132px;
+    height: 49.772px;
+}
+.donate-plain3 {
+    margin-top: -5px;
+    padding-left: 10px;
+}
+.donate-plain-description3 {
+    margin-top: -5px;
+    padding: 0px 10px;
+}

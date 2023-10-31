@@ -1,0 +1,69 @@
+.donate-title {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.donate-description {
+    text-align: center;
+    margin-top: -60px;
+    line-height: 25px;
+}
+
+.donate-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   
+
+}
+
+.taka-bg1 {
+    border-radius: 5px;
+    background: #FAFAFA;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.taka-bg2{
+    border-radius: 5px;
+    border: 2px solid#FF5959;
+    background: #FEE;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.taka-description{
+    color: #FF5959;
+}
+.amount{
+    text-align: center;
+}
+.line{
+    margin-left: 200px;
+    margin-top: -15px;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+.btn{
+    border-radius: 5px;
+    background: #FF5959;
+    border: none;
+    width: 110px;
+    height: 35px;
+}

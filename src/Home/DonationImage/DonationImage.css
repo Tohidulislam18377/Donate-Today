@@ -1,0 +1,28 @@
+.donation-img-main {
+    display: flex;
+    gap: 50px;
+    margin: 50px 20px;
+    margin-bottom: 50px;
+}
+
+.donation-part3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img9 {
+    width: 100%;
+    height: 100%px;
+    border-radius: 5px;
+}
+
+
+.btn-donate9 {
+    border: 0px;
+    border-radius: 5px;
+    background: #FF5959;
+    color: white;
+    height: 30px;
+    width: 140px;
+}
